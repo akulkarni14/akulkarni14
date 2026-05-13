@@ -22,6 +22,8 @@
 🔹 Built projects in Agentic RAG systems, AI-powered platforms, recommendation systems, e-commerce, full-stack web development, and intelligent monitoring systems.
 
 ---
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/file/d/1m3UyvtgAHEjWZ4nOhWw6kOt1Urv6LLED/view?usp=sharing)
+---
 ## 🛠️ Tech Stack
 
 ## 💻 Development & Programming
