@@ -28,6 +28,7 @@
 ![Full Stack](https://img.shields.io/badge/Full%20Stack-0A0A0A?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,24 +69,37 @@
 ## 📌 Projects
 
 ### 🤖 Agentic RAG System
+RAG • Python • LLMs • ChromaDB • LangChain • Streamlit
 
-AI-powered Retrieval-Augmented Generation system using LLMs for intelligent query handling and contextual responses.
+AI-powered Retrieval-Augmented Generation system for intelligent query handling and contextual responses.
+
+---
 
 ### 🚗 Intelligent Vehicle Monitoring System
+Python • Arduino • MPU6050 • HTML • CSS • CoolTerm-IDE
 
-Telematics-based system using sensors and AI concepts to monitor driver behavior, analyze motion data, and improve driving safety.
+Telematics-based system to monitor driver behavior, analyze motion data, and improve driving safety.
+
+---
 
 ### 🛒 VidsCommerce Platform
+React.js • Node.js • PostgreSQL • Facebook API • Full Stack • E-Commerce
 
 Shoppable reels-based e-commerce platform combining content and commerce.
 
-### 📚 Library Management System
+---
 
-Full-stack system for managing books, users, and issue/return workflows.
+### 📚 Library Management System
+Python • SQLite • HTML • CSS • Database Management
+
+System for managing books, users, and issue/return workflows.
+
+---
 
 ### 🎬 Movie Recommendation System
+Python • Machine Learning • Data Analytics 
 
-Recommendation engine using machine learning and user preference analysis.
+Recommendation system using machine learning and user preference analysis.
 
 ###
 
@@ -118,5 +132,4 @@ Recommendation engine using machine learning and user preference analysis.
 * Email: [ananykulkarni@gmail.com](mailto:ananykulkarni@gmail.com)
 
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnanyKulkarni&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 ⭐ Always open to collaboration, learning, and building impactful AI-driven solutions.
