@@ -128,7 +128,7 @@ Recommendation system using machine learning and user preference analysis.
 ## 🤝 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/anany-kulkarni](http://www.linkedin.com/in/anany-kulkarni)
-* GitHub: github.com/AnanyKulkarni
+* GitHub: https://github.com/akulkarni14
 * Email: [ananykulkarni@gmail.com](mailto:ananykulkarni@gmail.com)
 
 ---
