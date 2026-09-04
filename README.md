@@ -1,6 +1,6 @@
 # Hi, I'm Anany Kulkarni 👋
 
-### AI Engineer at allynerds.com | CSE(AIML) ’26 @ YCCE
+### AI Engineer at https://www.allynerds.com | CSE(AIML) ’26 @ YCCE
 
 🚀 Passionate about Generative AI, RAG Systems, LLMs, Data Analytics, Cloud Technologies, and Full Stack Development.
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Generative+AI+Enthusiast;AWS+%26+Data+Analytics;Full+Stack+Developer)](https://git.io/typing-svg)
