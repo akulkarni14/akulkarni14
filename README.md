@@ -9,13 +9,13 @@
 
 ## 🚀 About Me
 
-🎓 Pursuing a B.Tech in Computer Science Engineering (AIML) at YCCE along with Honors in AWS & DevOps (CGPA: 7.66).
-
 🔹 Currently working as an Artificial Intelligence Engineer at AllyNerds, focused on Generative AI, RAG systems, LLMs, and AI applications.
 
 🏆 Finalist — RuleZ x AI Hackathon 2026 by OPZEN.
 
 🔹 Former Full Stack Developer Intern at Gristip Software Pvt. Ltd. and Data Science & Analytics Intern at WeIntern.
+
+🎓 Completed B.Tech in Computer Science Engineering (AIML) at YCCE along with Honors in AWS & DevOps.
 
 🔹 Skilled in Python, SQL, React.js, AWS, Machine Learning, Data Analytics, Business Intelligence, Power BI, and Data Visualization.
 
