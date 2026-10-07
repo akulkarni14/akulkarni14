@@ -3,7 +3,7 @@
 ### AI Engineer at https://www.allynerds.com | CSE(AIML) ’26 @ YCCE
 
 🚀 Passionate about Generative AI, RAG Systems, LLMs, Data Analytics, Cloud Technologies, and Full Stack Development.
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Generative+AI+Enthusiast;AWS+%26+Data+Analytics;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=AI+Engineer;Agentic+AI+Enthusiast;AWS+%26+Data+Analytics;)](https://git.io/typing-svg)
 
 ---
 
@@ -31,7 +31,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
