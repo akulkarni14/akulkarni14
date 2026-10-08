@@ -22,7 +22,7 @@
 🔹 Built projects in Agentic RAG systems, AI-powered platforms, recommendation systems, e-commerce, full-stack web development, and intelligent monitoring systems.
 
 ---
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/file/d/1m3UyvtgAHEjWZ4nOhWw6kOt1Urv6LLED/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](https://drive.google.com/file/d/1wx7T9FNZG5__NNNdfKpuZmy73lDNH5W6/view?usp=sharing)
 ---
 ## 🛠️ Tech Stack
 
@@ -121,11 +121,12 @@ Recommendation system using machine learning and user preference analysis.
 
 ## 🏅 Certifications
 
-* Business Intelligence & Analytics – NPTEL (Silver)
-* Python for Data Science – NPTEL (Elite)
-* Cloud Computing – NPTEL
-* Intro to Machine Learning – NPTEL
-* Artificial Intelligence Fundamentals – IBM
+• Business Intelligence & Analytics | NPTEL – Silver 
+• Python for Data Science | NPTEL – Elite 
+• Generative AI for Everyone- Deeplearning.AI 
+• Introduction to Machine Learning | NPTEL 
+• Cambridge English Empower Level C1 Course | Cambridge University 
+• Getting Started with Artificial Intelligence | IBM
 
 ---
 
