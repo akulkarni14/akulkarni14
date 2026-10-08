@@ -121,12 +121,12 @@ Recommendation system using machine learning and user preference analysis.
 
 ## 🏅 Certifications
 
-• Business Intelligence & Analytics | NPTEL – Silver 
-• Python for Data Science | NPTEL – Elite 
-• Generative AI for Everyone- Deeplearning.AI 
-• Introduction to Machine Learning | NPTEL 
-• Cambridge English Empower Level C1 Course | Cambridge University 
-• Getting Started with Artificial Intelligence | IBM
+* • Business Intelligence & Analytics | NPTEL – Silver 
+* • Python for Data Science | NPTEL – Elite 
+* • Generative AI for Everyone- Deeplearning.AI 
+* • Introduction to Machine Learning | NPTEL 
+* • Cambridge English Empower Level C1 Course | Cambridge University 
+* • Getting Started with Artificial Intelligence | IBM
 
 ---
 
